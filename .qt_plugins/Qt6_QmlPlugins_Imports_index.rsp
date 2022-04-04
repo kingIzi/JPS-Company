@@ -1,0 +1,8 @@
+-rootPath
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company
+-cmake-output
+-output-file
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/.qt_plugins/Qt6_QmlPlugins_Imports_index.cmake
+-importPath
+C:/Qt/6.3.0/wasm_32/./qml
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release

@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"CMAKE_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"INCLUDE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/Copyright.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/OurMissionBanner.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/MainListView.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/CompanyStatistics.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/MainListViewModel.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/main.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/WhyUs.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/ContactUs.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/Constants.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/Testimonials.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml/components/NavBar.qml",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/fonts/Lora-Italic-VariableFont_wght.ttf",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/fonts/Lora-VariableFont_wght.ttf"
+	],
+	"LOCK_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_qml_QM7UNKGVG2_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "QM7UNKGVG2",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_qml_QM7UNKGVG2_Used.txt",
+	"SOURCE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/qml.qrc",
+	"VERBOSITY" : 0
+}

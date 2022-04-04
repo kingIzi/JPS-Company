@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"CMAKE_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"INCLUDE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/scripts/constants.js"
+	],
+	"LOCK_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_js_QM7UNKGVG2_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "js" ],
+	"OUTPUT_CHECKSUM" : "QM7UNKGVG2",
+	"OUTPUT_NAME" : "qrc_js.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_js_QM7UNKGVG2_Used.txt",
+	"SOURCE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/js.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"CMAKE_SOURCE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company",
+	"INCLUDE_DIR" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/index_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/Bag.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/Card.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/call_black_24dp.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/search_black_36dp.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/User Arrows.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/Rocket.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/menu_black_36dp.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/BG.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/Circle Layer.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/icons/copyright_black_36dp.svg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/ourMissionImg.png",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/contactUs.png",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/Microsoft Logo.png",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/logo.jpg",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/Google Logo.png",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/Hubspot Logo.png",
+		"C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/img/Airbnb Logo.png"
+	],
+	"LOCK_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_res_QM7UNKGVG2_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "QM7UNKGVG2",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir/AutoRcc_res_QM7UNKGVG2_Used.txt",
+	"SOURCE" : "C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/jps-company/forms/res.qrc",
+	"VERBOSITY" : 0
+}

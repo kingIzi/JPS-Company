@@ -1,0 +1,5 @@
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/edit_cache.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen_timestamp_deps.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/QT6_2_0/build-jps-company-WebAssembly_Qt_6_3_0-Release/CMakeFiles/index_autogen.dir
